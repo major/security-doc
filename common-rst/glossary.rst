@@ -155,6 +155,11 @@ OpenStack contribution process.
       Both a VM container format and disk format. Supported by Image
       service.
 
+   advanced message queue protocol (amqp)
+
+      The Advanced Message Queuing Protocol is a protocal for handling
+      messaging between applications and a messaging service.
+
    Anvil
 
       A project that ports the shell script-based project named
@@ -1708,6 +1713,13 @@ OpenStack contribution process.
 
       Device plugged into a PCI slot, such as a fibre channel or
       network card.
+
+   https
+
+      Used for accessing websites over a secure connection. When used as a
+      prefix in a URL (example: https://example.com), it instructs a client
+      to use a secure connection for communication. This is usually done with
+      SSL/TLS.
 
    hybrid cloud
 
